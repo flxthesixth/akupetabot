@@ -1,5 +1,6 @@
 # AkuPeta bot
 
+Telegram bot: https://t.me/akupetabot
 Small Telegram task tracker and reminder bot, built with Python standard library and SQLite. User-facing commands and reminder phrases remain Indonesian. Times shown to users use WITA (Asia/Makassar).
 
 ## Commands
